@@ -12,6 +12,9 @@ class Home extends React.Component {
         <div>
           <p>Welcome to the home page of your Endo app</p>
         </div>
+        <div>
+          <img src="endo_logo.png"/>
+        </div>
       </div>
     );
   }
